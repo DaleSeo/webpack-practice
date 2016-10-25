@@ -17,7 +17,20 @@
   },
   "homepage": "https://github.com/DaleSeo/webpack-practice#readme",
   "devDependencies": {
+    "babel-core": "^6.18.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.18.0",
     "css-loader": "^0.25.0",
-    "style-loader": "^0.13.1"
+    "eslint": "^3.8.1",
+    "eslint-loader": "^1.6.0",
+    "node-sass": "^3.10.1",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "lodash": "^4.16.4",
+    "underscore": "^1.8.3"
   }
 }

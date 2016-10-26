@@ -11,3 +11,7 @@
 
 ## Webpack Tutorial
 - https://www.youtube.com/watch?v=9kJVYpOqcVU
+
+## Beginner's guide to Webpack
+- https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.ihcnooivn
+- https://github.com/dabit3/beginning-webpack
